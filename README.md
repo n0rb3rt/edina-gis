@@ -1,5 +1,5 @@
 #Edina parcels
 
-[All Parcels](./Edina_Parcels.html)
+[All Parcels](./docs/Edina_Parcels.html)
 
-[Residential Parcels](./Edina_Residential_Parcels.html)
+[Residential Parcels](./docs/Edina_Residential_Parcels.html)
