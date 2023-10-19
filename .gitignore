@@ -1,0 +1,11 @@
+*.cpg
+*.dbf
+*.prj
+*.shx
+*.xml
+*.shp
+.venv
+.ipynb_checkpoints
+.devcontainer
+.git
+*.zip
