@@ -1,3 +1,3 @@
 #Edina parcels
 
-[](https://n0rbert.github.io/edina-gis/)
+<https://n0rbert.github.io/edina-gis/>
